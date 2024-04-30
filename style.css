@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+}
+body{
+    background-color: rgb(251, 253, 255);
+}
+
+
+.contact-formparagraph {
+    text-align: center;
+    font-size: x-large;
+    margin: 20px;
+}
+.para{
+    margin-left: 60px;
+    font-size: large;
+}
+.maincontainer{
+    display: flex;
+}
+.first-field input{
+    background-color: rgb(233, 219, 219);
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 7px;
+    width: 260px;
+}
+.fields{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.first-field2 input{
+    background-color: rgb(233, 219, 219);
+    padding-top: 7px;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 260px;
+}
+.email{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.email-fields input{
+    background-color: rgb(233, 219, 219);
+    padding-top: 17px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 541px;
+    margin-top: 10px;
+}
+.phone{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.phone-no input{
+    background-color: rgb(233, 219, 219);
+    padding-top: 7px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 541px;
+    margin-top: 10px;
+}
+:placeholder-shown{
+    font-size: larger;
+}
+.ms{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.ms-request input{
+    background-color: rgb(233, 219, 219);
+    padding-top: 15px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 541px;
+    margin-top: 10px;
+}
+.message2{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.textarea2 textarea{
+    background-color: rgb(233, 219, 219);
+    padding-top: 15px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 541px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+.img-btn{
+    margin-left: 225px;
+   
+}
+.cl-btn{
+    font-size: large;
+    background-color: black;
+    color: white;
+    padding: 15px 40px 10px 30px;
+}
